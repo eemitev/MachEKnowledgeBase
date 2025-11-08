@@ -6,7 +6,7 @@
 
 ## Step A: Train the Button in the Car
 
-1. Press and hold the two outer HomeLink buttons until the indicator light begins to flash (up to 20 seconds). Skip this step when training additional buttons.
+1. Press and hold the two outer HomeLink buttons until the indicator light begins to flash (up to 20 seconds). This clears all the memory. Skip this step when training additional buttons.
 
 2. Position the hand-held transmitter 1-3 inches away from the HomeLink surface (visor, overhead console, or mirror). / Unsure where the transmitter antenna is at this time /
 
