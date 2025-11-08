@@ -1,6 +1,7 @@
-# HomeLink Programming for Ford Mustang Mach-E
+# HomeLink Programming for Ford Mustang Mach-E 
 
 **Note:** Ford instructions present this as either Step A or Step B, but you need to do **both** steps.
+(Rolling code for your garage door opener requires both!)
 
 **Important:** Start the car in "full accessory mode" by pressing the start button without pressing the brake pedal.
 
@@ -24,7 +25,6 @@
 
 Source:
 
-rhfritz @ https://www.macheforum.com/site/threads/homelink-programming-instructions.28546/#post-1018084
-
-
+- rhfritz @ https://www.macheforum.com/site/threads/homelink-programming-instructions.28546/#post-1018084
+- https://www.youtube.com/watch?v=SOMVTea_vnw
 
